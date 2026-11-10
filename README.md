@@ -98,6 +98,4 @@ A redistribuição gratuita dos arquivos próprios da tradução é permitida, d
 
 ---
 
-**Obrigado por apoiar o Projeto Toshiro.**
-
-*O caminho do samurai agora também pode ser percorrido em português.* 🇧🇷
+**Obrigado**
